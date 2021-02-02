@@ -1,0 +1,31 @@
+.bg-primary {
+  background: rgba(76, 75, 255, 1);
+}
+
+.mvp-pic {
+  width: 200px;
+  float: right;
+}
+
+.davidson-pic {
+  position: absolute;
+  width: 190px;
+  top: 458px;
+  right: 50px;
+}
+
+h2 {
+  color: #FFDB00;
+}
+
+h1 {
+  color: #FFDB00;
+}
+
+.float-left{
+  float: left;
+}
+
+.clearfix {
+  overflow: auto; 
+}
